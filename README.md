@@ -13,4 +13,4 @@ This repository provides the basic source code of the investigation on the rotat
 - Hung Nguyen-Xuan
 
 # References
-...
+Kim Q. Tran, Thinh D. Le, Nam V. Nguyen, Hung Nguyen-Xuan, Design of 3D rotating triply periodic minimal surface (RotTPMS) lattice plates: Meanings of crystalline rotations and porosity, International Journal of Mechanical Sciences (2024), Revision
